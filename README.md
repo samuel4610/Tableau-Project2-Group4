@@ -20,7 +20,8 @@ We also converted the original month-year field from a text format into a proper
 We also added meaningful names to the columns that originally had no labels. This helped make the dataset easier to understand, organize, and use effectively during analysis and visualization.
 
 ## Analysis and Results:
-To what extent does the amount of total renewable energy produced by the United States impact the amount of primary energy that gets imported?
+
+### To what extent does the amount of total renewable energy produced by the United States impact the amount of primary energy that gets imported?
 
 <img width="986" height="645" alt="image" src="https://github.com/user-attachments/assets/9978748d-80a2-4e98-ad8f-6ac450e02c2f" />
 
@@ -28,7 +29,7 @@ This chart illustrates the relationship between primary energy imports and total
 
 
 
-## Which energy sources are the most or least predictable for future US energy consumption/production?
+### Which energy sources are the most or least predictable for future US energy consumption/production?
 
 <img width="986" height="522" alt="image" src="https://github.com/user-attachments/assets/40c95a3b-66dd-4eed-bbb5-78d46f45f1a5" />
 
